@@ -5,7 +5,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: 'MyTGBot Docs',
   // 如果部署到 GitHub Pages，请修改 base 为你的仓库名，如 '/docs/'
-  base: '/my-docs/',
+  base: '/bot-docs/',
   description: 'Telegram Bot 部署文档',
 
   // 功能开关
